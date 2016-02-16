@@ -1,0 +1,28 @@
+name: Torch
+favicon: null
+layout_spectrum: 0.8395513435825706
+typography_spectrum: 0.024019008269533515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10284318239428103
+  lightness: 0.000653969356790185
+  saturation: 0.7392842683475465
+  rhythmicContrast: 0.7370105269365013
+purpose: []
